@@ -1,0 +1,3 @@
+C:/Users/Ir_Informatic/CLionProjects/forth exercise/cmake-build-debug/CMakeFiles/forth_excercise.dir
+C:/Users/Ir_Informatic/CLionProjects/forth exercise/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ir_Informatic/CLionProjects/forth exercise/cmake-build-debug/CMakeFiles/rebuild_cache.dir

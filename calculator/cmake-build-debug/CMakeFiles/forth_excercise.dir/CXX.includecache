@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ir_Informatic/CLionProjects/forth exercise/calculator.h
+mystack.h
+C:/Users/Ir_Informatic/CLionProjects/forth exercise/mystack.h
+
+C:/Users/Ir_Informatic/CLionProjects/forth exercise/double_linked_list.h
+iostream
+-
+exception.h
+C:/Users/Ir_Informatic/CLionProjects/forth exercise/exception.h
+algorithm
+-
+
+C:/Users/Ir_Informatic/CLionProjects/forth exercise/evalualtor.h
+calculator.h
+C:/Users/Ir_Informatic/CLionProjects/forth exercise/calculator.h
+fstream
+-
+sstream
+-
+string
+-
+
+C:/Users/Ir_Informatic/CLionProjects/forth exercise/exception.h
+
+C:/Users/Ir_Informatic/CLionProjects/forth exercise/mystack.h
+double_linked_list.h
+C:/Users/Ir_Informatic/CLionProjects/forth exercise/double_linked_list.h
+
+C:/Users/Ir_Informatic/CLionProjects/forth exercise/source.cpp
+evalualtor.h
+C:/Users/Ir_Informatic/CLionProjects/forth exercise/evalualtor.h
+

@@ -1,0 +1,3 @@
+"D:\installed files\CLion 2020.2.4\clion\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\forth_excercise.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\forth_excercise.dir/objects.a @CMakeFiles\forth_excercise.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\forth_excercise.dir/objects.a -Wl,--no-whole-archive  -o forth_excercise.exe -Wl,--out-implib,libforth_excercise.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\forth_excercise.dir\linklibs.rsp
